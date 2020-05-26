@@ -6,4 +6,5 @@ The algorithm uses the json library to scrape data off the NBA's website, and th
 
 ## Updates
 June 2, 2019: Developed and Presented the Original NBARank
+
 May 26, 2020: Uploaded Algorithm to GitHub
